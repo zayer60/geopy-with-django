@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mailsite.mailapp.views.python_http_client" />
+          <option value="mailsite.mailapp.views.twilio_sendgrid_integration" />
+          <option value="sendgrid.*" />
+          <option value="incomeexpensesapi.incomeexpensesapi.urls.rest_framework_simplejwt" />
+          <option value="hackernews.links.schema.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
